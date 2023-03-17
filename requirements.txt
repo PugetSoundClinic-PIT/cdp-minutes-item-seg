@@ -1,0 +1,7 @@
+cdp_data[transformers]
+python-docx
+pypdf2
+dtw-python
+fastdtw
+segeval
+fireo<2
